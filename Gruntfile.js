@@ -20,7 +20,7 @@
 
 module.exports = function( grunt ) 
 {
-	var _cutbackVersion = "3.3.0";
+	var _cutbackVersion = "3.4.0";
 
 	var _destFolder = 'deploy/';
 	var _developFolder = 'source/';
